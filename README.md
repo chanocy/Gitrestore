@@ -1,1 +1,2 @@
 # Gitrestore
+origin add
